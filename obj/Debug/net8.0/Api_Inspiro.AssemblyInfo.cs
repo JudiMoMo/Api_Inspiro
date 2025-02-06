@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api_Inspiro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b85615f62f2be9560db73a1361ebbfa7b3310a62")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api_Inspiro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api_Inspiro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
